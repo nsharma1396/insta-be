@@ -2,7 +2,9 @@
 
 Steps to run
 
-1. Install all dependencies using:
+1. Clone the repository.
+
+2. Install all dependencies using:
 ```sh
 yarn
 ```
@@ -13,7 +15,7 @@ OR
 npm install
 ```
 
-2. Run the server using the command:
+3. Run the server using the command:
 
 ```sh
 yarn start
